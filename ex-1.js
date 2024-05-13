@@ -5,3 +5,5 @@ let blueColor;
 let fourthColor;
 let fifthColor;
 let tenthColor;
+
+console.log(colors);
